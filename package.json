@@ -1,0 +1,11 @@
+{
+  "name": "battleshipt",
+  "version": "1.0.0",
+  "description": "A little battleship game",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "author": "Deric Cain<deric.cain@gmail.com>",
+  "license": "MIT"
+}
